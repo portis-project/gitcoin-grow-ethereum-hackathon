@@ -36,16 +36,27 @@ We believe that with Portis, building a decentralized application with the avera
 Throw in features like ["Trust this App"](https://docs.portis.io/#/trust-this-app), ["Gas Relay"](https://docs.portis.io/#/gas-relay), ["Change Network"](https://docs.portis.io/#/methods?id=changenetwork), and more, and you can really take your UX to the level users are accustomed to.
 
 ## ✊ We want you to bring on the revolution of mainstream adoption ✊
+## ⛽️ We want you to take advantage of the Gas Stations Network to do it ⛽️
 
 ---
 
 # :rocket: Challenge
 
+Portis was created to tackle issues like usability and user onboarding in DApps, but one issue has remained the biggest challenge since day one: gas fees. The crux of the problem is that you’re asking your users to overcommit to your application before they even had a chance to carry out one meaningful interaction with it.
+
+The Gas Stations Network ([EIP-1613](http://eips.ethereum.org/EIPS/eip-1613)) lets you sponsor your users' gas fees, all in a decentralized manner ([medium article](https://medium.com/@portis/sponsor-your-users-gas-fees-with-portis-and-tabookey-s-gas-stations-network-7fd7c8406869)). Right now it is only available on Ropsten, but mainnet release is coming very soon!
+
 Build a DApp that anybody can use. Your parents, your highschool history teacher, anyone. With Portis powering your DApp, they'll only need to register with an email and password, from inside their browser, something they're already familiar with. 
 
 Most DApps today provide some sort of "user guide" due to the complexity of onboarding and interacting with them. We think that's unacceptable. There are no instructions on how to use Instagram or Uber.
 
-We will be looking for DApps created in the Hackathon that have taken our vision to heart. That have decided to utilize the frictionless experience provided by Portis to build a DApp with the mainstream crowd in mind. **The winner will walk away with a cool 3 ETH.**
+We will be looking for DApps created in the Hackathon that have taken our vision to heart. That have decided to utilize the frictionless experience provided by Portis to build a DApp with the mainstream crowd in mind. 
+
+The only requirement we place, besides that you use Portis and create a kickass UI that feels just like a web2 app, is to utilize our gas relay functionality. **Let's blur the lines between web3 and web2.**
+
+## The winner will walk away with a cool 3 ETH
+
+## In addition, the winning project (as well as any noteable runners ups) will be presented during our talk at the [MetaCartel Demo Day Conference in Berlin, August 19th](https://www.metacartel.org/)
 
 ---
 
