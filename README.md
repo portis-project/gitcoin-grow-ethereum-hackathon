@@ -67,6 +67,8 @@ The only requirement we place, besides that you use Portis and create a kickass 
 1. [UX Guidelines](https://docs.portis.io/#/ux-guidelines) - Building on the blockchain raises new and interesting UX and technical challenges. We put together a list of what we believe to be best practices when building DApps designed to be human-friendly.
 1. [White Paper](https://www.portis.io/whitepaper) - Wonder how our E2E works? Let's get technical!  
 
+# We ❤️ Feedback
+Missing features you'd like to see in Portis? Have any suggestions for improvement? We want to know! Please post your feedback here: [https://portis.hellonext.co/](https://portis.hellonext.co/).
 
 # Need Help? Get in Touch
 
